@@ -1,7 +1,11 @@
-## GEOG5990: Assignment 1
-# Agent-Based Model
+# GEOG5990: Assignment 1
+## Agent-Based Model
 
-This repository provides access to an agent-based model, using the fundamental model, agent and environment codes. Through excellent documentation, useful comments and broader coding concepts, the model:
+This repository provides access to the work developed during the practical sessions of GEOG5990: Programming for Geographical Information Analysis: Core Skills.
+
+The overall aim of the assignment was to construct an agent-based model (ABM). ABMs essentially attempt to capture the behaviour of individuals in an environment, using model, agent and environment codes. Here, Object-Orientated Programming created a platform for ABMS, with types of individual being represented types (classes) of object, and individuals being built as objects. In this portfolio, the ABM will produce an animation of the movement of sheep around an environment, modelling their eating behaviour and how the sheep share their food stores. 
+
+Through excellent documentation, useful comments and broader coding concepts, the model should:
 
   - builds agents in a space;
   - gets them to interact with each other;
