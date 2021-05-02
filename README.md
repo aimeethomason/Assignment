@@ -1,2 +1,2 @@
-# Assignment 1: Aimee Thomason
-Online Portfolio
+# Online Portfolio
+Agent-Based Model
