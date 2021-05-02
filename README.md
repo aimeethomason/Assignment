@@ -1,3 +1,4 @@
+## GEOG5990: Assignment 1
 # Agent-Based Model
 
 This repository provides access to an agent-based model, using the fundamental model, agent and environment codes. Through excellent documentation, useful comments and broader coding concepts, the model:
