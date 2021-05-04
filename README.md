@@ -1,7 +1,7 @@
 # Assignment 1
 ## Agent-Based Model
 
-This repository provides access to **assignment one.** This focuses on the work created during the practical sessions of **GEOG5990: Programming for Geographical Information Analysis: Core Skills.**
+This repository provides access to **Assignment One**, focusing on the work created during the practical sessions of **GEOG5990: Programming for Geographical Information Analysis: Core Skills.**
 
 The overall aim of the assignment was to construct an **agent-based model (ABM)** that would produce an animation of sheep moving around a set environment, modelling their eating behaviour and how the sheep share their food stores.
 
