@@ -2,9 +2,9 @@
  
 This repository provides access to **Assignment One.**
 
-The overall aim of the assignment was to construct an **agent-based model (ABM)** that would produce an animation of sheep moving around a set environment, modelling their eating behaviour and how the sheep share their food stores.
+The overall aim of the assignment was to construct an **agent-based model (ABM)** that would produce an animation of sheep moving around a set environment. This will demonstrate their eating behaviour and how the sheep share their food stores.
 
-Through excellent documentation, constructive comments and broader coding concepts, the model should:
+Using broader coding concepts, underpinned by excellent documentation and constructive comments, the model should:
 
   - builds agents in a space;
   - gets them to interact with each other;
